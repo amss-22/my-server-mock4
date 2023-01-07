@@ -1,36 +1,19 @@
 {
-  "cars": [
+  "user": [
     {
       "id": 1,
-      "image":"https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2Fyc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    },
-    {
-      "id": 2,
-      "image":"https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2Fyc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "brand": "Tata",
-			"type":"AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "email":"amitbhutani95@gmail.com",
+      "username": "amit007",
+      "password": "abc123"		
     }
   ],
-"wishlisted_cars": [
+"task": [
     {
       "id": 1,
-      "image":"https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2Fyc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "user_name":"amit007",
+      "date": "7th Jan,2023",
+      "task": 2019,
+			"type":"Attend Mock"
     }
   ]
 }
